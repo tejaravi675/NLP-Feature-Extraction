@@ -1,4 +1,4 @@
-# NLPFeatureExtraction
+# NLP-Feature-Extraction
 
 There are 4 main types of feature extraction methods used in current industry. 3 of which are Bag Of Words, TF-IDF and Hash Vectorizer.
 The 3 methods are applied on FRIENDS dataset obtained from kaggle. The link will be given below. 
